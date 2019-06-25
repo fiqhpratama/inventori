@@ -1,0 +1,6 @@
+-Admin
+email: admin@admin.com
+password : admin
+-Kepala Gudang
+email: kepalagudang@gmail.com
+password : admin
