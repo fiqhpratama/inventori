@@ -5,12 +5,12 @@
   <!-- Content Header (Page header) -->
   <section class="content-header">
     <h1>
-     Edit Products
+     Edit Barang
 
     </h1>
     <ol class="breadcrumb">
       <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
-      <li class="active">Products</li>
+      <li class="active">Barang</li>
     </ol>
   </section>
 
@@ -58,7 +58,7 @@
                 </div>
 
                 <div class="form-group">
-                  <label for="product_name">Product name</label>
+                  <label for="product_name">Barang name</label>
                   <input type="text" class="form-control" id="product_name" name="product_name" placeholder="Enter product name" value="<?php echo $product_data['name']; ?>"  autocomplete="off"/>
                 </div>
 
